@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "member": {
+    "dataSource": "u2item",
+    "public": true
   }
 }

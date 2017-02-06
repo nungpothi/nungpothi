@@ -2,5 +2,15 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "u2item": {
+    "host": "",
+    "port": 0,
+    "url": "",
+    "database": "u2item",
+    "password": "",
+    "name": "u2item",
+    "user": "",
+    "connector": "mongodb"
   }
 }
